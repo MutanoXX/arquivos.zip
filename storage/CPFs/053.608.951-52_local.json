@@ -1,0 +1,22 @@
+{
+    "raw_text": "🕵️ **CONSULTA DE CPF (baseLocal)** 🕵️\n\n° **CPF:** `053.608.951-52`\n° **CNS:** `SEM INFORMAÇÃO`\n° **Nome:** `ANTONIELLY APARECIDA RODRIGUES DE SIQUEIRA`\n° **Status Receita:** `REGULAR`\n° **Sexo:** `Feminino`\n° **Nascimento:** `09/10/2010` `(15 anos)`\n°\n° **Nacionalidade:** `SEM INFORMAÇÃO`\n° **Naturalidade:** `SEM INFORMAÇÃO`\n° **Óbito:** `SEM INFORMAÇÃO`\n\n° **FINANCEIRO:**\n\n° **Renda Estimada:** `R$ 225`\n° **Score:** `1`\n\n° **Mãe:** `SIRLENE PESSOA RODRIGUES DE SIQUEIRA`\n\n° **PARENTES:**\n\n• `MAE:` `SIRLENE PESSOA RODRIGUES DE SIQUEIRA (SEM INFORMAÇÃO)`\n\n° **PERFIL DE CONSUMO:**\n\n`Crédito Pessoal: NÃO | Casa Própria: NÃO | Investimentos: NÃO | Cartão Crédito: NÃO | Viagens: NÃO | TV a Cabo: NÃO | Banda Larga: SIM`",
+    "tipo_consulta": "cpf",
+    "parsed": {
+        "`MAE": "` `SIRLENE PESSOA RODRIGUES DE SIQUEIRA (SEM INFORMAÇÃO)`"
+    },
+    "sections": {
+        "geral": {},
+        "**cpf": {},
+        "**cns": {},
+        "**financeiro": {},
+        "**parentes": {
+            "**parentes_`mae": [
+                "` `SIRLENE PESSOA RODRIGUES DE SIQUEIRA (SEM INFORMAÇÃO)`"
+            ]
+        },
+        "**perfil de consumo": {}
+    },
+    "total_resultados": null,
+    "resultados": [],
+    "telegraph_link": null
+}

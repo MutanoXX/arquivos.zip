@@ -1,0 +1,53 @@
+{
+    "status": "success",
+    "source": "telegram",
+    "tipo_consulta": "cpf",
+    "total_resultados": null,
+    "telegraph_link": null,
+    "resultados": [],
+    "parsed": {
+        "**CPF": "** `043.039.010-67`",
+        "**CNS": "** `705402429976090`",
+        "**Nome": "** `DIOVANY PEREIRA GONCALVES`",
+        "**Status Receita": "** `REGULAR`",
+        "**Sexo": "** `Indefinido`",
+        "**Nascimento": "** `14/06/1998` `(27 anos)`",
+        "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+        "**Naturalidade": "** `CACAPAVA DO SUL - RS`",
+        "**Óbito": "** `SEM INFORMAÇÃO`",
+        "**FINANCEIRO": "**",
+        "**Renda Estimada": "** `R$ 1194`",
+        "**Score": "** `---`",
+        "**Mãe": "** `MARGARIDA DE FATIMA PEREIRA`",
+        "**PARENTES": "**",
+        "`MAE": "` `MARGARIDA DE FATIMA PEREIRA (SEM INFORMAÇÃO)`",
+        "**TELEFONES": "**",
+        "**E-MAILS": "**",
+        "**ENDEREÇOS (2)": "**",
+        "**PERFIL DE CONSUMO": "**"
+    },
+    "sections": {
+        "geral": {
+            "**CPF": "** `043.039.010-67`",
+            "**CNS": "** `705402429976090`",
+            "**Nome": "** `DIOVANY PEREIRA GONCALVES`",
+            "**Status Receita": "** `REGULAR`",
+            "**Sexo": "** `Indefinido`",
+            "**Nascimento": "** `14/06/1998` `(27 anos)`",
+            "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+            "**Naturalidade": "** `CACAPAVA DO SUL - RS`",
+            "**Óbito": "** `SEM INFORMAÇÃO`",
+            "**FINANCEIRO": "**",
+            "**Renda Estimada": "** `R$ 1194`",
+            "**Score": "** `---`",
+            "**Mãe": "** `MARGARIDA DE FATIMA PEREIRA`",
+            "**PARENTES": "**",
+            "`MAE": "` `MARGARIDA DE FATIMA PEREIRA (SEM INFORMAÇÃO)`",
+            "**TELEFONES": "**",
+            "**E-MAILS": "**",
+            "**ENDEREÇOS (2)": "**",
+            "**PERFIL DE CONSUMO": "**"
+        }
+    },
+    "raw_text": "🕵️ **CONSULTA DE CPF (baseLocal)** 🕵️\n\n° **CPF:** `043.039.010-67`\n° **CNS:** `705402429976090`\n° **Nome:** `DIOVANY PEREIRA GONCALVES`\n° **Status Receita:** `REGULAR`\n° **Sexo:** `Indefinido`\n° **Nascimento:** `14/06/1998` `(27 anos)`\n°\n° **Nacionalidade:** `SEM INFORMAÇÃO`\n° **Naturalidade:** `CACAPAVA DO SUL - RS`\n° **Óbito:** `SEM INFORMAÇÃO`\n\n° **FINANCEIRO:**\n\n° **Renda Estimada:** `R$ 1194`\n° **Score:** `---`\n\n° **Mãe:** `MARGARIDA DE FATIMA PEREIRA`\n\n° **PARENTES:**\n\n• `MAE:` `MARGARIDA DE FATIMA PEREIRA (SEM INFORMAÇÃO)`\n\n° **TELEFONES:**\n\n`(51) 99680-4770 (CELULAR)`\n`(51) 99543-0278 (CELULAR)`\n`(51) 99721-1363 (CELULAR)`\n`(51) 99794-6557 (CELULAR)`\n\n° **E-MAILS:**\n\n`diovany201113@gmail.com`\n`diovany201113@hotmail.com`\n\n° **ENDEREÇOS (2):**\n\n`CAPANE, 26 - QTA DA BOA VISTA, CACHOEIRA DO SUL/RS - CEP 96505100`\n\n`IGNACIO DE CARVALHO, 187 - SOARES, CACHOEIRA DO SUL/RS - CEP 96501551`\n\n° **PERFIL DE CONSUMO:**\n\n`Crédito Pessoal: SIM | Casa Própria: SIM | Investimentos: NÃO | Cartão Crédito: SIM | Viagens: SIM | TV a Cabo: SIM | Banda Larga: SIM`"
+}

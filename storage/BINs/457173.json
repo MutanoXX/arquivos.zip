@@ -1,0 +1,28 @@
+{
+    "raw_text": "🕵️ **CONSULTA DE BIN** 🕵️\n\n° **BIN:** `457173`\n\n° **INFORMAÇÕES DO CARTÃO**\n\n° **Bandeira:** `VISA`\n° **Nível:** `Platinum`\n° **Banco:** `Itaú Unibanco S.A.`\n° **Site:** `www.itau.com.br`\n\n° **PAÍS / MOEDA**\n\n° **País:** `Brasil (BR)`\n° **Moeda:** `Real Brasileiro (BRL)`\n° **Código Moeda:** `986`",
+    "tipo_consulta": "bin",
+    "parsed": {
+        "**BIN:**": "`457173`",
+        "**Bandeira:**": "`VISA`",
+        "**Nível:**": "`Platinum`",
+        "**Banco:**": "`Itaú Unibanco S.A.`",
+        "**País:**": "`Brasil (BR)`",
+        "**Moeda:**": "`Real Brasileiro (BRL)`",
+        "**Código Moeda:**": "`986`"
+    },
+    "sections": {
+        "geral": {
+            "**BIN:**": "`457173`"
+        },
+        "**informações do cartão": {
+            "**Bandeira:**": "`VISA`",
+            "**Nível:**": "`Platinum`",
+            "**Banco:**": "`Itaú Unibanco S.A.`"
+        },
+        "**país / moeda": {
+            "**País:**": "`Brasil (BR)`",
+            "**Moeda:**": "`Real Brasileiro (BRL)`",
+            "**Código Moeda:**": "`986`"
+        }
+    }
+}

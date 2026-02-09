@@ -1,0 +1,31 @@
+{
+    "raw_text": "🕵️ **CONSULTA DE IP** 🕵️\n\n° **IP Pesquisado:** `8.8.8.8`\n\n° **LOCALIZAÇÃO**\n\n° **País:** `United States (US)`\n° **Região:** `Virginia (VA)`\n° **Cidade:** `Ashburn`\n° **CEP:** `20149`\n° **Latitude:** `39.03`\n° **Longitude:** `-77.5`\n° **Timezone:** `America/New_York`\n\n° **INFORMAÇÕES DA REDE**\n\n° **ISP:** `Google LLC`\n° **Organização:** `Google Public DNS`\n° **ASN:** `AS15169 Google LLC`",
+    "tipo_consulta": "ip",
+    "parsed": {
+        "**IP Pesquisado": "** `8.8.8.8`",
+        "**País": "** `United States (US)`",
+        "**Região": "** `Virginia (VA)`",
+        "**Cidade": "** `Ashburn`",
+        "**Latitude": "** `39.03`",
+        "**Longitude": "** `-77.5`",
+        "**Timezone": "** `America/New_York`",
+        "**Organização": "** `Google Public DNS`"
+    },
+    "sections": {
+        "geral": {
+            "**IP Pesquisado": "** `8.8.8.8`",
+            "**País": "** `United States (US)`",
+            "**Região": "** `Virginia (VA)`",
+            "**Cidade": "** `Ashburn`"
+        },
+        "**cep": {
+            "**Latitude": "** `39.03`",
+            "**Longitude": "** `-77.5`",
+            "**Timezone": "** `America/New_York`"
+        },
+        "**isp": {
+            "**Organização": "** `Google Public DNS`"
+        },
+        "**asn": {}
+    }
+}

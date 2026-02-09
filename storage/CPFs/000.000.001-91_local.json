@@ -1,0 +1,24 @@
+{
+    "raw_text": "🕵️ **CONSULTA DE CPF** 🕵️\n\n° **CPF:** `000.000.001-91`\n\n° **DADOS PESSOAIS**\n\n° **Nome:** `TESTE USUARIO`\n° **Status Receita:** `REGULAR`\n\n° **CONTATO**\n\n° **Telefone:** `(11) 99999-9999`\n° **Email:** `teste@email.com`",
+    "tipo_consulta": "cpf",
+    "parsed": {
+        "**CPF:**": "`000.000.001-91`",
+        "**Nome:**": "`TESTE USUARIO`",
+        "**Status Receita:**": "`REGULAR`",
+        "**Telefone:**": "(11) 99999-9999",
+        "**Email:**": "teste@email.com"
+    },
+    "sections": {
+        "geral": {
+            "**CPF:**": "`000.000.001-91`"
+        },
+        "**dados pessoais": {
+            "**Nome:**": "`TESTE USUARIO`",
+            "**Status Receita:**": "`REGULAR`"
+        },
+        "**contato": {
+            "**Telefone:**": "(11) 99999-9999",
+            "**Email:**": "teste@email.com"
+        }
+    }
+}

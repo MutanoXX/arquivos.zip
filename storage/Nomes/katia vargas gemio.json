@@ -1,0 +1,27 @@
+{
+    "raw_text": "🕵️ CONSULTA DE NOME 🕵️\n\n• RESULTADO 1\n\nNome: Katia Vargas Gemio\nCPF: 743.020.511-91\nSexo: F - Feminino\nNascimento: 26/04/1976\nIdade: 49 anos",
+    "tipo_consulta": "nome",
+    "parsed": {
+        "Nome": "Katia Vargas Gemio",
+        "CPF": "743.020.511-91",
+        "Sexo": "F - Feminino",
+        "Nascimento": "26/04/1976",
+        "Idade": "49 anos"
+    },
+    "sections": {
+        "geral": {
+            "Nome": "Katia Vargas Gemio",
+            "CPF": "743.020.511-91",
+            "Sexo": "F - Feminino",
+            "Nascimento": "26/04/1976",
+            "Idade": "49 anos"
+        },
+        "resultado": {
+            "Nome": "Katia Vargas Gemio",
+            "CPF": "743.020.511-91",
+            "Sexo": "F - Feminino",
+            "Nascimento": "26/04/1976",
+            "Idade": "49 anos"
+        }
+    }
+}

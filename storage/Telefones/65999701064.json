@@ -1,0 +1,36 @@
+{
+    "tipo_consulta": "telefone",
+    "total_resultados": null,
+    "resultados": [],
+    "parsed": {
+        "**Telefone": "** `65999701064`",
+        "**Nome": "** `LUCIENE APARECIDA BALBINO FIDELIS`",
+        "**CPF": "** `048.155.021-61`",
+        "**Nascimento": "** `04/02/1993`",
+        "**Sexo": "** `FEMININO`",
+        "**Mãe": "** `ADELINA BALBINO FIDELIS`",
+        "Bairro": "JUNCO",
+        "CEP": "07820000",
+        "Cidade/UF": "CACERES/MT`"
+    },
+    "sections": {
+        "geral": {
+            "**Telefone": "** `65999701064`",
+            "**Nome": "** `LUCIENE APARECIDA BALBINO FIDELIS`",
+            "**CPF": "** `048.155.021-61`",
+            "**Nascimento": "** `04/02/1993`",
+            "**Sexo": "** `FEMININO`",
+            "**Mãe": "** `ADELINA BALBINO FIDELIS`"
+        },
+        "endereco": {
+            "logradouro": [
+                "`RUA PRUDENTE DE MORAES"
+            ],
+            "Bairro": "JUNCO",
+            "CEP": "07820000",
+            "Cidade/UF": "CACERES/MT`"
+        }
+    },
+    "telegraph_link": null,
+    "raw_text": "🕵️ **CONSULTA DE TELEFONE** 🕵️\n\n🔎 **Telefone:** `65999701064`\n\n• **Nome:** `LUCIENE APARECIDA BALBINO FIDELIS`\n• **CPF:** `048.155.021-61`\n• **Nascimento:** `04/02/1993`\n• **Sexo:** `FEMININO`\n• **Mãe:** `ADELINA BALBINO FIDELIS`\n\n**Endereço**\n\n`RUA PRUDENTE DE MORAES\nBairro: JUNCO\nCEP: 07820000\nCidade/UF: CACERES/MT`"
+}

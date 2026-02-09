@@ -1,0 +1,41 @@
+{
+    "tipo_consulta": "cpf",
+    "total_resultados": null,
+    "resultados": [],
+    "parsed": {
+        "**CPF": "** `054.090.251-99`",
+        "**CNS": "** `SEM INFORMAÇÃO`",
+        "**Nome": "** `ANTONIELLY BARAVIEIRA DOS SANTOS`",
+        "**Status Receita": "** `REGULAR`",
+        "**Sexo": "** `Feminino`",
+        "**Nascimento": "** `28/01/2010` `(15 anos)`",
+        "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+        "**Naturalidade": "** `SEM INFORMAÇÃO`",
+        "**Óbito": "** `SEM INFORMAÇÃO`",
+        "**FINANCEIRO": "**",
+        "**Renda Estimada": "** `R$ 225`",
+        "**Score": "** `1`",
+        "**Mãe": "** `SEM INFORMAÇÃO`",
+        "**PERFIL DE CONSUMO": "**"
+    },
+    "sections": {
+        "geral": {
+            "**CPF": "** `054.090.251-99`",
+            "**CNS": "** `SEM INFORMAÇÃO`",
+            "**Nome": "** `ANTONIELLY BARAVIEIRA DOS SANTOS`",
+            "**Status Receita": "** `REGULAR`",
+            "**Sexo": "** `Feminino`",
+            "**Nascimento": "** `28/01/2010` `(15 anos)`",
+            "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+            "**Naturalidade": "** `SEM INFORMAÇÃO`",
+            "**Óbito": "** `SEM INFORMAÇÃO`",
+            "**FINANCEIRO": "**",
+            "**Renda Estimada": "** `R$ 225`",
+            "**Score": "** `1`",
+            "**Mãe": "** `SEM INFORMAÇÃO`",
+            "**PERFIL DE CONSUMO": "**"
+        }
+    },
+    "telegraph_link": null,
+    "raw_text": "🕵️ **CONSULTA DE CPF (baseLocal)** 🕵️\n\n° **CPF:** `054.090.251-99`\n° **CNS:** `SEM INFORMAÇÃO`\n° **Nome:** `ANTONIELLY BARAVIEIRA DOS SANTOS`\n° **Status Receita:** `REGULAR`\n° **Sexo:** `Feminino`\n° **Nascimento:** `28/01/2010` `(15 anos)`\n°\n° **Nacionalidade:** `SEM INFORMAÇÃO`\n° **Naturalidade:** `SEM INFORMAÇÃO`\n° **Óbito:** `SEM INFORMAÇÃO`\n\n° **FINANCEIRO:**\n\n° **Renda Estimada:** `R$ 225`\n° **Score:** `1`\n\n° **Mãe:** `SEM INFORMAÇÃO`\n\n° **PERFIL DE CONSUMO:**\n\n`Crédito Pessoal: NÃO | Casa Própria: NÃO | Investimentos: NÃO | Cartão Crédito: NÃO | Viagens: NÃO | TV a Cabo: NÃO | Banda Larga: SIM`"
+}

@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "source": "telegram",
+    "tipo_consulta": "placa",
+    "total_resultados": null,
+    "telegraph_link": null,
+    "resultados": [],
+    "parsed": {},
+    "sections": {
+        "geral": {}
+    },
+    "raw_text": "**🕵️ CONSULTA DE CEP**\n\n**° CEP:** `01310-100`\n**° Logradouro:** `Avenida Paulista`\n**° Complemento:** `de 612 a 1510 - lado par`\n**° Bairro:** `Bela Vista`\n**° Cidade:** `São Paulo`\n**° UF:** `SP`\n**° Estado completo:** `São Paulo`\n**° Região:** `Sudeste`\n**° IBGE:** `3550308`\n**° GIA:** `1004`\n**° DDD:** `11`\n**° SIAFI:** `7107`"
+}

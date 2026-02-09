@@ -1,0 +1,49 @@
+{
+    "raw_text": "🕵️ CONSULTA DE NOME 🕵️\n\nPesquisa: joao da silva\nResultados: 2\n\nRESULTADO 1\n\nNOME: Joao da Silva\nCPF: 000.028.570-65\nSEXO: M - Masculino\nNASCIMENTO: 18/05/1945\nIDADE: 80 anos\n\nRESULTADO 2\n\nNOME: Joao da Silva\nCPF: 000.070.940-94\nSEXO: M - Masculino\nNASCIMENTO: 16/01/1920\nIDADE: 106 anos\n\n👤 Usuário: MutanoX\n🤖 Bot: @EmonNullbot",
+    "tipo_consulta": "nome",
+    "parsed": {
+        "NOME": "Joao da Silva",
+        "CPF": "000.028.570-65",
+        "SEXO": "M - Masculino",
+        "NASCIMENTO": "18/05/1945",
+        "IDADE": "80 anos"
+    },
+    "sections": {
+        "resultado": {
+            "numero": 1,
+            "dados": {
+                "NOME": "Joao da Silva",
+                "CPF": "000.028.570-65",
+                "SEXO": "M - Masculino",
+                "NASCIMENTO": "18/05/1945",
+                "IDADE": "80 anos"
+            }
+        }
+    },
+    "total_resultados": 2,
+    "resultados": [
+        {
+            "numero": 1,
+            "dados": {
+                "NOME": "Joao da Silva",
+                "CPF": "000.028.570-65",
+                "SEXO": "M - Masculino",
+                "NASCIMENTO": "18/05/1945",
+                "IDADE": "80 anos"
+            },
+            "sections": {}
+        },
+        {
+            "numero": 2,
+            "dados": {
+                "NOME": "Joao da Silva",
+                "CPF": "000.070.940-94",
+                "SEXO": "M - Masculino",
+                "NASCIMENTO": "16/01/1920",
+                "IDADE": "106 anos"
+            },
+            "sections": {}
+        }
+    ],
+    "telegraph_link": null
+}

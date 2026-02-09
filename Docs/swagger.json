@@ -1,0 +1,84 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Telegram Consultas API",
+    "description": "API para realização de consultas brasileiras através de integração com bot do Telegram e sistema de cache.",
+    "version": "3.0.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "Status da API",
+        "responses": {
+          "200": {
+            "description": "Retorna o status atual da API e conexão com Telegram."
+          }
+        }
+      }
+    },
+    "/api/consultas": {
+      "get": {
+        "summary": "Realizar Consulta (GET)",
+        "parameters": [
+          {
+            "name": "type",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": ["cpf", "nome", "telefone", "placa", "cep", "cnpj", "ip", "bin", "email"]
+            },
+            "description": "Tipo de consulta a ser realizada"
+          },
+          {
+            "name": "value",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Valor a ser consultado (CPF, Nome, etc.)"
+          },
+          {
+            "name": "base",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Base específica (opcional, ex: 'sisreg' para CPF)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Resultado da consulta"
+          }
+        }
+      },
+      "post": {
+        "summary": "Realizar Consulta (POST)",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "type": { "type": "string" },
+                  "value": { "type": "string" },
+                  "base": { "type": "string" }
+                },
+                "required": ["type", "value"]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Resultado da consulta"
+          }
+        }
+      }
+    }
+  }
+}

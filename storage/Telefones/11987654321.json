@@ -1,0 +1,34 @@
+{
+    "raw_text": "🕵️ CONSULTA DE TELEFONE 🕵️\n\n🔎 Telefone: 11987654321\n\n• Nome: MAURICIO NASCIMENTO SOUZA\n• CPF: 818.629.468-68\n• Nascimento: 22/09/1953\n• Sexo: MASCULINO\n• Mãe: EULINA PEREIRA DE SOUZA\n\nEndereço\n\nAVENIDA VISCONDE DO RIO BRANCO\nBairro: CENTRO\nCEP: 09910470\nCidade/UF: DIADEMA/SP",
+    "tipo_consulta": "telefone",
+    "parsed": {
+        "Telefone": "11987654321",
+        "Nome": "MAURICIO NASCIMENTO SOUZA",
+        "CPF": "818.629.468-68",
+        "Nascimento": "22/09/1953",
+        "Sexo": "MASCULINO",
+        "Mãe": "EULINA PEREIRA DE SOUZA",
+        "AVENIDA VISCONDE DO RIO BRANCO": "AVENIDA VISCONDE DO RIO BRANCO",
+        "Bairro": "CENTRO",
+        "CEP": "09910470",
+        "Cidade/UF": "DIADEMA/SP"
+    },
+    "sections": {
+        "geral": {
+            "Telefone": "11987654321"
+        },
+        "resultado": {
+            "Nome": "MAURICIO NASCIMENTO SOUZA",
+            "CPF": "818.629.468-68",
+            "Nascimento": "22/09/1953",
+            "Sexo": "MASCULINO",
+            "Mãe": "EULINA PEREIRA DE SOUZA"
+        },
+        "endereco": {
+            "logradouro": ["AVENIDA VISCONDE DO RIO BRANCO"],
+            "Bairro": "CENTRO",
+            "CEP": "09910470",
+            "Cidade/UF": "DIADEMA/SP"
+        }
+    }
+}

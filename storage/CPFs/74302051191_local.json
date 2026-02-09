@@ -1,0 +1,51 @@
+{
+    "tipo_consulta": "cpf",
+    "total_resultados": null,
+    "resultados": [],
+    "parsed": {
+        "**CPF": "** `743.020.511-91`",
+        "**CNS": "** `SEM INFORMAÇÃO`",
+        "**Nome": "** `KATIA VARGAS GEMIO`",
+        "**Status Receita": "** `REGULAR`",
+        "**Sexo": "** `Feminino`",
+        "**Nascimento": "** `26/04/1976` `(49 anos)`",
+        "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+        "**Naturalidade": "** `SEM INFORMAÇÃO`",
+        "**Óbito": "** `SEM INFORMAÇÃO`",
+        "**FINANCEIRO": "**",
+        "**Renda Estimada": "** `R$ 6113`",
+        "**Score": "** `443`",
+        "**Mãe": "** `EDITH GEMEO DE VARGAS`",
+        "**PARENTES": "**",
+        "`MAE": "` `EDITH GEMEO DE VARGAS (SEM INFORMAÇÃO)`",
+        "**TELEFONES": "**",
+        "**E-MAILS": "**",
+        "**ENDEREÇOS (5)": "**",
+        "**PERFIL DE CONSUMO": "**"
+    },
+    "sections": {
+        "geral": {
+            "**CPF": "** `743.020.511-91`",
+            "**CNS": "** `SEM INFORMAÇÃO`",
+            "**Nome": "** `KATIA VARGAS GEMIO`",
+            "**Status Receita": "** `REGULAR`",
+            "**Sexo": "** `Feminino`",
+            "**Nascimento": "** `26/04/1976` `(49 anos)`",
+            "**Nacionalidade": "** `SEM INFORMAÇÃO`",
+            "**Naturalidade": "** `SEM INFORMAÇÃO`",
+            "**Óbito": "** `SEM INFORMAÇÃO`",
+            "**FINANCEIRO": "**",
+            "**Renda Estimada": "** `R$ 6113`",
+            "**Score": "** `443`",
+            "**Mãe": "** `EDITH GEMEO DE VARGAS`",
+            "**PARENTES": "**",
+            "`MAE": "` `EDITH GEMEO DE VARGAS (SEM INFORMAÇÃO)`",
+            "**TELEFONES": "**",
+            "**E-MAILS": "**",
+            "**ENDEREÇOS (5)": "**",
+            "**PERFIL DE CONSUMO": "**"
+        }
+    },
+    "telegraph_link": null,
+    "raw_text": "🕵️ **CONSULTA DE CPF (baseLocal)** 🕵️\n\n° **CPF:** `743.020.511-91`\n° **CNS:** `SEM INFORMAÇÃO`\n° **Nome:** `KATIA VARGAS GEMIO`\n° **Status Receita:** `REGULAR`\n° **Sexo:** `Feminino`\n° **Nascimento:** `26/04/1976` `(49 anos)`\n°\n° **Nacionalidade:** `SEM INFORMAÇÃO`\n° **Naturalidade:** `SEM INFORMAÇÃO`\n° **Óbito:** `SEM INFORMAÇÃO`\n\n° **FINANCEIRO:**\n\n° **Renda Estimada:** `R$ 6113`\n° **Score:** `443`\n\n° **Mãe:** `EDITH GEMEO DE VARGAS`\n\n° **PARENTES:**\n\n• `MAE:` `EDITH GEMEO DE VARGAS (SEM INFORMAÇÃO)`\n\n° **TELEFONES:**\n\n`(65) 99679-5519 (CELULAR)`\n`(65) 99941-4641 (CELULAR)`\n`(65) 3222-3385 (FIXO)`\n`(65) 91006-8924 (CELULAR)`\n\n° **E-MAILS:**\n\n`katge.26@gmail.com`\n`katge.26@hotmail.com`\n`katge@hotmail.com`\n\n° **ENDEREÇOS (5):**\n\n`CHUVA DE OURO, 243 - CENTRO, CONQUISTA D OESTE/MT - CEP 78254000`\n\n`DOS COUTO, 10 - COHAB NOVA, CACERES/MT - CEP 78200000`\n\n`LARANJEIRAS, SN - ST 3, CONQUISTA D OESTE/MT - CEP 78254000`\n\n`DAS LARANJEIRAS, 1755 - CENTRO, CONQUISTA D OESTE/MT - CEP 78254000`\n\n`CHUVA DE OURO, 30140 - CENTRO, CONQUISTA D OESTE/MT - CEP 78254000`\n\n° **PERFIL DE CONSUMO:**\n\n`Crédito Pessoal: SIM | Casa Própria: SIM | Investimentos: SIM | Cartão Crédito: SIM | Viagens: SIM | TV a Cabo: SIM | Banda Larga: SIM`"
+}

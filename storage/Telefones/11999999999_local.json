@@ -1,0 +1,36 @@
+{
+    "tipo_consulta": "telefone",
+    "total_resultados": null,
+    "resultados": [],
+    "parsed": {
+        "**Telefone": "** `11999999999`",
+        "**Nome": "** `EVANIO DUTRA`",
+        "**CPF": "** `862.655.044-87`",
+        "**Nascimento": "** `07/03/1968`",
+        "**Sexo": "** `MASCULINO`",
+        "**Mãe": "** `ANA DA SILVA DUTRA`",
+        "Bairro": "PARQUE SANTA TERESA",
+        "CEP": "06340460",
+        "Cidade/UF": "CARAPICUIBA/SP`"
+    },
+    "sections": {
+        "geral": {
+            "**Telefone": "** `11999999999`",
+            "**Nome": "** `EVANIO DUTRA`",
+            "**CPF": "** `862.655.044-87`",
+            "**Nascimento": "** `07/03/1968`",
+            "**Sexo": "** `MASCULINO`",
+            "**Mãe": "** `ANA DA SILVA DUTRA`"
+        },
+        "endereco": {
+            "logradouro": [
+                "`RUA ORLANDO SILVA"
+            ],
+            "Bairro": "PARQUE SANTA TERESA",
+            "CEP": "06340460",
+            "Cidade/UF": "CARAPICUIBA/SP`"
+        }
+    },
+    "telegraph_link": null,
+    "raw_text": "🕵️ **CONSULTA DE TELEFONE** 🕵️\n\n🔎 **Telefone:** `11999999999`\n\n• **Nome:** `EVANIO DUTRA`\n• **CPF:** `862.655.044-87`\n• **Nascimento:** `07/03/1968`\n• **Sexo:** `MASCULINO`\n• **Mãe:** `ANA DA SILVA DUTRA`\n\n**Endereço**\n\n`RUA ORLANDO SILVA\nBairro: PARQUE SANTA TERESA\nCEP: 06340460\nCidade/UF: CARAPICUIBA/SP`"
+}
